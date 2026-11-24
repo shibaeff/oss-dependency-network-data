@@ -1,0 +1,1247 @@
+[
+  {
+    "id": "crates/at_2015-01-01",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "d159737eb980db5d5e81b5f99adea250a8bf311cb2db834245eb57dd14181f17",
+      "edges.parquet": "257eaa3ac6b3595c27df8107cfd62e379e92bd975aeb55445fcc21ea103cb78a"
+    },
+    "node_rows": 552,
+    "edge_rows": 472,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "7a5f9a1e356adab09e7113af287e17ae0cb628678f61dd23223fcfc1c5a86702",
+    "local_export_bytes": 17655,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": "2015-01-01T00:00:00Z",
+      "name": "at_2015-01-01"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "crates/at_2015-07-01",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "e2ddb8ddf2b1e06d2a41d77ebf04f40d7ef79163a3e0fde63490a5f2e629cc20",
+      "edges.parquet": "b28734c2b93e4daf6f1688c54725aa663b3a2ced2345503754c4116e281c4e8c"
+    },
+    "node_rows": 1840,
+    "edge_rows": 3649,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "b40e212bdccebcda7ff56476308ae2a6ad6bc288ba7ffc4ada0b7d1dbf6307dd",
+    "local_export_bytes": 67466,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": "2015-07-01T00:00:00Z",
+      "name": "at_2015-07-01"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "crates/at_2016-01-01",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "1f6e86b20512ab4dd27d1e54127a810b32ea1fc95e954674294bc3f1cee1fe98",
+      "edges.parquet": "5a02f6eaddc64dcfa06a74a0c8a3f23aecb61632dbb5963b1eff892a0fb8d165"
+    },
+    "node_rows": 2994,
+    "edge_rows": 7148,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "bb1e8e63f36f109e77e7ab745b3e703a6b0a8920d1678ebf2e37f2f5e54de0cf",
+    "local_export_bytes": 114942,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": "2016-01-01T00:00:00Z",
+      "name": "at_2016-01-01"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "crates/at_2016-07-01",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "f88b7656380e697bc5a39fed582fbf2fbf907346556b05c76587942e900ac5c2",
+      "edges.parquet": "f682f911f684253df6f864f7f5e768355edad7c6c054df9301e812057254508b"
+    },
+    "node_rows": 4462,
+    "edge_rows": 11728,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "12cd8386e0e03244e2a55a61679633cb6c7755be20ece256b1316c5745a2440c",
+    "local_export_bytes": 174994,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": "2016-07-01T00:00:00Z",
+      "name": "at_2016-07-01"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "crates/at_2017-01-01",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "9d407bdeeb70599be1425fedd8620677864b612396114ace7c5868f8a2d8de0c",
+      "edges.parquet": "13bd24178ff4ee340700e454c70817d4292bc66f6ffaf0194d9f34d056fdd8ca"
+    },
+    "node_rows": 6356,
+    "edge_rows": 19211,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "f282782e4434c60f20554d31e25abac59e495e9d09141cc25c5a71e30c6c72a2",
+    "local_export_bytes": 257885,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": "2017-01-01T00:00:00Z",
+      "name": "at_2017-01-01"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "crates/at_2017-07-01",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "25c4338a7306c26018de05dcbe3b45921b7cf43e6cd3ab071ed7c4cd7803d3de",
+      "edges.parquet": "3fd022b54c71bac1e528f0bb5a98c78ae33522b1bb9f9b2e536311de21ce4709"
+    },
+    "node_rows": 8851,
+    "edge_rows": 29436,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "52ebd0fe27e9d6aa6ed77deeb0c58bdd4625fe15cb2809dae5a27888df570290",
+    "local_export_bytes": 371714,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": "2017-07-01T00:00:00Z",
+      "name": "at_2017-07-01"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "crates/at_2018-01-01",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "274d91c467dda32d832706647c507485053e08dadc80a849a6872624e73aa0f3",
+      "edges.parquet": "cd798bcf9d91f01e12e82029b93dd3acd9c5c4d26396d2d2185124be13bf5d45"
+    },
+    "node_rows": 11576,
+    "edge_rows": 41479,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "e56327c9b839e569658516300323c04f26ce2c92f25f3582ba6a57d66a6df6f7",
+    "local_export_bytes": 502207,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": "2018-01-01T00:00:00Z",
+      "name": "at_2018-01-01"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "crates/at_2018-07-01",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "86bdba62ffbac96c8e6c2380275baf0c6ceea0ea41f5196bb3e7f3c4ea4b312f",
+      "edges.parquet": "6d491270acf2d3af9e3ab0ef814fb75878925b5c3b43996a07bf2cf9648132c0"
+    },
+    "node_rows": 14843,
+    "edge_rows": 56370,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "693bfd52d18b1eec3859c65ace30f280d97f7ecfa1573f887eb716208ecfe414",
+    "local_export_bytes": 660534,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": "2018-07-01T00:00:00Z",
+      "name": "at_2018-07-01"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "crates/at_2019-01-01",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "a21f542e9fe72bbf473fff0344544422d3ca9ac50ba06d10df80df4010aad7a4",
+      "edges.parquet": "73fb94af895680831df23a45ac6baa734ecc7def8dad09904758083579e7f898"
+    },
+    "node_rows": 18875,
+    "edge_rows": 75650,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "9eca73504836383115edef3616b4d61b851fb9e1e78ed8ad26dbe607bb0ee360",
+    "local_export_bytes": 860873,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": "2019-01-01T00:00:00Z",
+      "name": "at_2019-01-01"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "crates/at_2019-07-01",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "91a0805b0e053f965065fa767ca37b40bb098add7eb9122ad195a1b40a78bcd1",
+      "edges.parquet": "c0c65f4e62d8a38f20854cc373c9186aff8229fb9aeebc881a5b08d233480556"
+    },
+    "node_rows": 23933,
+    "edge_rows": 100890,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "4f2299b9eeb457f8af4e56bc2b73170dc59ebfd396448f2be2ac4dde4482a09a",
+    "local_export_bytes": 1116884,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": "2019-07-01T00:00:00Z",
+      "name": "at_2019-07-01"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "crates/at_2020-01-01",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "3b3e4d6aa133995c868bba4924a5cdfd25925223363591b2c505010c365a18d7",
+      "edges.parquet": "2c04eb73f9981db467e0dd04e738aa05ad829cb98f823866a6647cd419ae517e"
+    },
+    "node_rows": 29670,
+    "edge_rows": 130033,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "35b4da15f06e0ce8d368e7ad7ea78867c50c8c41bc55b98717e1626a44be51f6",
+    "local_export_bytes": 1412173,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": "2020-01-01T00:00:00Z",
+      "name": "at_2020-01-01"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "crates/at_2020-07-01",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "76fe22c3494628173aeae8f8e719435a3ed6fc5ee6498db54039a4d32e96b5f2",
+      "edges.parquet": "d1a01bbc5a8fea02e59de5716bfef0cfd2f4098cfa36078a491e37738077b953"
+    },
+    "node_rows": 37475,
+    "edge_rows": 174889,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "d13c555bd08991b4f3c4df88b14b621f978f955370e45b574190f27b624baea7",
+    "local_export_bytes": 1836454,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": "2020-07-01T00:00:00Z",
+      "name": "at_2020-07-01"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "crates/at_2021-01-01",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "a9c328aae3ed6825f855b119ded75ecbd59dd2faa3ca11c743f3a5034c9f05bf",
+      "edges.parquet": "a9bdbe73f68ca2c415821477da9e4e548defb6681fdce94ab0b72cb7c370433e"
+    },
+    "node_rows": 45905,
+    "edge_rows": 222969,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "54aa571a67d6e94fb3e4f974b02415241810c73aead8cb2c88d62275aaa1db2a",
+    "local_export_bytes": 2292742,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": "2021-01-01T00:00:00Z",
+      "name": "at_2021-01-01"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "crates/at_2021-07-01",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "6ae1018d34384571b788d7a0ee3a11ae81d9aa8cf4b3aee0461c5807380292cf",
+      "edges.parquet": "a2648f194643a476a9cc9f5aef2b0798abdbbbec84017e02fde3a57b80d421b1"
+    },
+    "node_rows": 55475,
+    "edge_rows": 283822,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "83f705b8eed19febd9d2acc751c1ea4451cbe200425552808067c425fb9476d4",
+    "local_export_bytes": 2840290,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": "2021-07-01T00:00:00Z",
+      "name": "at_2021-07-01"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "crates/at_2022-01-01",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "6483a0771ca2fc142c15f0be3c2a06b140c664a01b39f68155975a6c05af8a46",
+      "edges.parquet": "4d563e2a879565bee32986bc34d2e36bcbe6a12131242989c9ef6350691c0727"
+    },
+    "node_rows": 64822,
+    "edge_rows": 344961,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "c7ee49288833854373eb470a8e1d5591fa8c20027e154f38b282da5b19d22ef5",
+    "local_export_bytes": 3384413,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": "2022-01-01T00:00:00Z",
+      "name": "at_2022-01-01"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "crates/at_2022-07-01",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "85a6fdadb005930cf773eb4f923c666d5ebb673dfc60f75f4a469f133147c4eb",
+      "edges.parquet": "bf3fd923d716cec34ccc7c6d75dae806df59496c25a7f38a332c62120214ac19"
+    },
+    "node_rows": 76300,
+    "edge_rows": 416034,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "c2375ca62312b55fcfde8c1cfcfd221210b0d84d9396bc9a8152021fedbeae69",
+    "local_export_bytes": 4038188,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": "2022-07-01T00:00:00Z",
+      "name": "at_2022-07-01"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "crates/at_2023-01-01",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "71441c515e625416baa94bd2ecb512fe2bf261901f37f6d41dc0cba803fdf875",
+      "edges.parquet": "a9c0797ef7bd5366b818161f080ab007293443da42bf437f81f4c5ffe8ecb166"
+    },
+    "node_rows": 88688,
+    "edge_rows": 495311,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "5285f93cf0826117d9bfa122e97cf780cfd5d0d0e32bde331c43ecf80cba83f9",
+    "local_export_bytes": 4760292,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": "2023-01-01T00:00:00Z",
+      "name": "at_2023-01-01"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "crates/at_2023-07-01",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "21c386ca282712013173bcb3924c4782df103ee4abe4a02765598cb9a458ff34",
+      "edges.parquet": "e0bef8adf52eeea0ab3bdf8ade4c5a3fa1462a538ba4c7973d3c2938be7f3d48"
+    },
+    "node_rows": 104732,
+    "edge_rows": 607664,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "fd8eff9ce8fe357c5260a2ec9e7c0f3913e18ff721fbee847c70b48ee18132b9",
+    "local_export_bytes": 5724006,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": "2023-07-01T00:00:00Z",
+      "name": "at_2023-07-01"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "crates/at_2024-01-01",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "d71ca102e24c1ce9b9bf7d0da0336d97242f1ddc6b81a570204d97d447c5fa01",
+      "edges.parquet": "a84a8f545e2856f988cda27600c595a8500644bf9cab377492dfefebb6535c39"
+    },
+    "node_rows": 119922,
+    "edge_rows": 717681,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "2cfbc6fc0833590cfa33302587e57fdfc25afd46ea3c65b20a220c3609eea05e",
+    "local_export_bytes": 6667368,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": "2024-01-01T00:00:00Z",
+      "name": "at_2024-01-01"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "crates/at_2024-07-01",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "229a31dccf9bf67a87d6a70bf1588eca9047a4dc16e7fe288c80a6ed01392b39",
+      "edges.parquet": "1469e68842211000d2c1a66fe409ac94c5d78eba7c4e2a116e16ce55f07cc1c5"
+    },
+    "node_rows": 136446,
+    "edge_rows": 841011,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "e2e8606873c90da0e31babe2659f30232f8fa696228285719e60e4ca716fd5b3",
+    "local_export_bytes": 7720479,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": "2024-07-01T00:00:00Z",
+      "name": "at_2024-07-01"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "crates/at_2025-01-01",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "407101cc0e1dabfe0818b33f21c3a4e022566cce13e635e3a3f7cd457bba5a91",
+      "edges.parquet": "153f6b6c4e4046cbce6578b3223e462b8286c756df1868e1ba7b83e93d8e334a"
+    },
+    "node_rows": 154575,
+    "edge_rows": 978662,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "3895f12398b7937b9dd17e1db14b7d61f545612f4411ae91dd29004c93696ec1",
+    "local_export_bytes": 8883391,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": "2025-01-01T00:00:00Z",
+      "name": "at_2025-01-01"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "crates/at_2025-07-01",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "feaad2fa8069fd221cb1c438e1631ddb3e1bd71fdde72727e353f62a4039ebb9",
+      "edges.parquet": "395bc7dc94d805ea19a5812c6f40866673d09a9fec1d2b93673bf8efce9659f4"
+    },
+    "node_rows": 175431,
+    "edge_rows": 1146566,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "bde104388acb19f7feb315f58473dd3134301610152cf0202d3faa33ca0509d7",
+    "local_export_bytes": 10252344,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": "2025-07-01T00:00:00Z",
+      "name": "at_2025-07-01"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "crates/at_2026-01-01",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "2f8f088b0de7cd0455464c3f26e90cdd875f9a68f29438e823bc99dbc08cfa3f",
+      "edges.parquet": "b4c8f3d8c54f7fc93306784660e4c5b0d74852a15b751a1b831bcc49a8337e97"
+    },
+    "node_rows": 203531,
+    "edge_rows": 1422063,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "720e9a5a286550b3b6001476fb69b0554b43c009909838d20608c5dc67a07892",
+    "local_export_bytes": 12262975,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": "2026-01-01T00:00:00Z",
+      "name": "at_2026-01-01"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "crates/at_2026-07-01",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "8b15eeab7769c4fbf8144a583b7d0f49f9a437c521b2b58cfee7a97a03d04cb4",
+      "edges.parquet": "b28cec8448c645abca32af49c25ba40d28126255d31e166e8291f4a5dea699d0"
+    },
+    "node_rows": 280243,
+    "edge_rows": 2171210,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "3548afd6c124ed92507bdfe28aa73ec8441a0747f05793d78a6c8bd1b03eebe2",
+    "local_export_bytes": 17555803,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": "2026-07-01T00:00:00Z",
+      "name": "at_2026-07-01"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "crates/at_2026-11-11",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "a337073d3167aa31d9207792756085f40a84313774aae399dfb9a9d9d6d7a082",
+      "edges.parquet": "3028be0ac795463058e157c66c8a544ca3617b501b8ed030ae91f01f11e7b431"
+    },
+    "node_rows": 366144,
+    "edge_rows": 2967216,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "3e6df31eb6e815120b6bb5254dda643c82054e1e0c7e9184f8d8ffc669dd0d81",
+    "local_export_bytes": 23380719,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": "2026-11-11T02:00:00Z",
+      "name": "at_2026-11-11"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "crates/latest",
+    "source": "https://static.crates.io/db-dump.tar.gz",
+    "license": "NOASSERTION: public factual topology; no explicit dump license located; prior CC0 claim rejected",
+    "inputs": {
+      "nodes.parquet": "929cf66a765a296e9f0cd222dc48821f695116c76f459147ee2ea9c8fb76edf4",
+      "edges.parquet": "14c4b8840d5bdd569a448708281ef63f1f8a900f32da657f3f1fbacbc4692acd"
+    },
+    "node_rows": 374759,
+    "edge_rows": 3007678,
+    "semantics": "See SCHEMA.md; declared edges, not resolved installations; optional_any is original optional_all bool_or.",
+    "local_export_sha256": "753fda54371c2bf8647862461915bcb1cc8db0eccb70a6bda8e72184a2121f98",
+    "local_export_bytes": 23756299,
+    "status": "withheld-unverified-upstream-license",
+    "snapshot": {
+      "date": "2026-11-12",
+      "at": null,
+      "name": "latest"
+    },
+    "dump_timestamp": "2026-11-11T02:00:11.696081176Z",
+    "source_archive_sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5"
+  },
+  {
+    "id": "debian/0.93r6",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "0.93r6.csv.zip": "f6f043d772a5bf5c4d9c86ef151153d70f5d432e9fa16dced8492f88576a67d6"
+    },
+    "node_rows": 309,
+    "edge_rows": 364,
+    "semantics": "Sanitized full relational graph; isolates, virtual/missing nodes, parallel edges and loops preserved; no maintainer/descriptions/gprops.",
+    "local_export_sha256": "5bfdd7ff7d8ed1ee4fd29ff93ac879eb2d08df0da8db6cfb2205e4fe94986148",
+    "local_export_bytes": 4606,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/0.93r6.csv.zip"
+  },
+  {
+    "id": "debian-packages/0.93r6",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "0.93r6.csv.zip": "f6f043d772a5bf5c4d9c86ef151153d70f5d432e9fa16dced8492f88576a67d6"
+    },
+    "node_rows": 256,
+    "edge_rows": 114,
+    "semantics": "Original node IDs preserved; package-only Depends/Pre-Depends induced subgraph, deduplicated and loop-free; package isolates retained.",
+    "local_export_sha256": "37b324f6db816f3f447767ff6f35451048601210aa6af0cb89ec887bffa0c7e3",
+    "local_export_bytes": 2103,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/0.93r6.csv.zip"
+  },
+  {
+    "id": "debian/bo",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "bo.csv.zip": "bdaae3fc27d889a52ff6dbcc68c0a300bfd29fcffe6b4f3aea1ab90e73659135"
+    },
+    "node_rows": 1354,
+    "edge_rows": 3119,
+    "semantics": "Sanitized full relational graph; isolates, virtual/missing nodes, parallel edges and loops preserved; no maintainer/descriptions/gprops.",
+    "local_export_sha256": "66ea2e469a1b7cce48a405ed0e0fbd13c3d7c991a5505bd375bdbd0c341ba8e9",
+    "local_export_bytes": 26097,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/bo.csv.zip"
+  },
+  {
+    "id": "debian-packages/bo",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "bo.csv.zip": "bdaae3fc27d889a52ff6dbcc68c0a300bfd29fcffe6b4f3aea1ab90e73659135"
+    },
+    "node_rows": 1126,
+    "edge_rows": 1818,
+    "semantics": "Original node IDs preserved; package-only Depends/Pre-Depends induced subgraph, deduplicated and loop-free; package isolates retained.",
+    "local_export_sha256": "518407d596051324a1792e5fa644baf71843a319b2d107a825bc68410ecdaf26",
+    "local_export_bytes": 12061,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/bo.csv.zip"
+  },
+  {
+    "id": "debian/bookworm",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "bookworm.csv.zip": "f708054e36aefb6aaa468d984cc4d437acde908901326a2ddac6feeb886efd65"
+    },
+    "node_rows": 107564,
+    "edge_rows": 413462,
+    "semantics": "Sanitized full relational graph; isolates, virtual/missing nodes, parallel edges and loops preserved; no maintainer/descriptions/gprops.",
+    "local_export_sha256": "2e7f40c8473e23b3202ae334345583b0077d90753ce3af274407ff449ba0948c",
+    "local_export_bytes": 2928581,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/bookworm.csv.zip"
+  },
+  {
+    "id": "debian-packages/bookworm",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "bookworm.csv.zip": "f708054e36aefb6aaa468d984cc4d437acde908901326a2ddac6feeb886efd65"
+    },
+    "node_rows": 63468,
+    "edge_rows": 245313,
+    "semantics": "Original node IDs preserved; package-only Depends/Pre-Depends induced subgraph, deduplicated and loop-free; package isolates retained.",
+    "local_export_sha256": "16da361201393358f46ec8cdfd66ec1b871a3bcc9ee62e178a871697c88e8aa4",
+    "local_export_bytes": 1233520,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/bookworm.csv.zip"
+  },
+  {
+    "id": "debian/bullseye",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "bullseye.csv.zip": "a39b4e4ba3a5a68b1a47ad7cff6e66f70ccdafb1c6e6faafefa06cce4bfbb2ad"
+    },
+    "node_rows": 87345,
+    "edge_rows": 373714,
+    "semantics": "Sanitized full relational graph; isolates, virtual/missing nodes, parallel edges and loops preserved; no maintainer/descriptions/gprops.",
+    "local_export_sha256": "7ca39d126ace4295d0ac01a61b665d501003369822258b8c66bef2a673feb6ed",
+    "local_export_bytes": 2594382,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/bullseye.csv.zip"
+  },
+  {
+    "id": "debian-packages/bullseye",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "bullseye.csv.zip": "a39b4e4ba3a5a68b1a47ad7cff6e66f70ccdafb1c6e6faafefa06cce4bfbb2ad"
+    },
+    "node_rows": 59029,
+    "edge_rows": 227246,
+    "semantics": "Original node IDs preserved; package-only Depends/Pre-Depends induced subgraph, deduplicated and loop-free; package isolates retained.",
+    "local_export_sha256": "c04ddc36b72c5f6194e665cf940e064ceedabe154686191b7e80543fe5139a4b",
+    "local_export_bytes": 1138589,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/bullseye.csv.zip"
+  },
+  {
+    "id": "debian/buster",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "buster.csv.zip": "8011848013d28d048148304267f437c80dd9f0ed9ffd8fcb6e1c2ef4295ad43e"
+    },
+    "node_rows": 81121,
+    "edge_rows": 393914,
+    "semantics": "Sanitized full relational graph; isolates, virtual/missing nodes, parallel edges and loops preserved; no maintainer/descriptions/gprops.",
+    "local_export_sha256": "a44eb5f54d616d988bec58272ba5b634ec02155579d2dbe04dc0b109efa6eba1",
+    "local_export_bytes": 2578955,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/buster.csv.zip"
+  },
+  {
+    "id": "debian-packages/buster",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "buster.csv.zip": "8011848013d28d048148304267f437c80dd9f0ed9ffd8fcb6e1c2ef4295ad43e"
+    },
+    "node_rows": 57370,
+    "edge_rows": 234092,
+    "semantics": "Original node IDs preserved; package-only Depends/Pre-Depends induced subgraph, deduplicated and loop-free; package isolates retained.",
+    "local_export_sha256": "327d97ac6199fbc18c59f6928dd9b846eae4d10093fefcba013fa69ae4d48f87",
+    "local_export_bytes": 1134615,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/buster.csv.zip"
+  },
+  {
+    "id": "debian/buzz",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "buzz.csv.zip": "c7ca79847a29b0d094b88503a2a1c51635adcdbbfd98556fa590e06bae7af9a4"
+    },
+    "node_rows": 619,
+    "edge_rows": 1274,
+    "semantics": "Sanitized full relational graph; isolates, virtual/missing nodes, parallel edges and loops preserved; no maintainer/descriptions/gprops.",
+    "local_export_sha256": "232804e87000dab439837e0d4c96232e452caf5d2b313cdd61c9e6c0abbfe3c5",
+    "local_export_bytes": 11091,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/buzz.csv.zip"
+  },
+  {
+    "id": "debian-packages/buzz",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "buzz.csv.zip": "c7ca79847a29b0d094b88503a2a1c51635adcdbbfd98556fa590e06bae7af9a4"
+    },
+    "node_rows": 482,
+    "edge_rows": 599,
+    "semantics": "Original node IDs preserved; package-only Depends/Pre-Depends induced subgraph, deduplicated and loop-free; package isolates retained.",
+    "local_export_sha256": "2dc08330e116159c4c7835f2dc9136109485f159960bbea595f9d3370b8958d5",
+    "local_export_bytes": 4730,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/buzz.csv.zip"
+  },
+  {
+    "id": "debian/etch",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "etch.csv.zip": "d502b6b954c66bd58b274670a3ac2938bc2192f51e629b2b4537e27bd2c5f3b6"
+    },
+    "node_rows": 24427,
+    "edge_rows": 125918,
+    "semantics": "Sanitized full relational graph; isolates, virtual/missing nodes, parallel edges and loops preserved; no maintainer/descriptions/gprops.",
+    "local_export_sha256": "f5a4c7d875b1ab495f7ab8e4b6bdd784b765cca20cf2eb2c87e5fafe5f35d847",
+    "local_export_bytes": 797662,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/etch.csv.zip"
+  },
+  {
+    "id": "debian-packages/etch",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "etch.csv.zip": "d502b6b954c66bd58b274670a3ac2938bc2192f51e629b2b4537e27bd2c5f3b6"
+    },
+    "node_rows": 18601,
+    "edge_rows": 87201,
+    "semantics": "Original node IDs preserved; package-only Depends/Pre-Depends induced subgraph, deduplicated and loop-free; package isolates retained.",
+    "local_export_sha256": "f87ecb4e2eedac1351bd00a72c779ad32a454d96ddbe83790cc6afff70f78967",
+    "local_export_bytes": 387329,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/etch.csv.zip"
+  },
+  {
+    "id": "debian/hamm",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "hamm.csv.zip": "56deb4d38c9208fd09f17d3f7d796d3cdf48619e6023ecc2f9f28399073b3c87"
+    },
+    "node_rows": 2312,
+    "edge_rows": 6276,
+    "semantics": "Sanitized full relational graph; isolates, virtual/missing nodes, parallel edges and loops preserved; no maintainer/descriptions/gprops.",
+    "local_export_sha256": "cf0cc84bf70c2443f403375c5a2d3dda72d8d1fcdd2587f0d1af5859cff668a5",
+    "local_export_bytes": 47928,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/hamm.csv.zip"
+  },
+  {
+    "id": "debian-packages/hamm",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "hamm.csv.zip": "56deb4d38c9208fd09f17d3f7d796d3cdf48619e6023ecc2f9f28399073b3c87"
+    },
+    "node_rows": 1852,
+    "edge_rows": 3733,
+    "semantics": "Original node IDs preserved; package-only Depends/Pre-Depends induced subgraph, deduplicated and loop-free; package isolates retained.",
+    "local_export_sha256": "fc07b36d4141362193d335d10f01727664510fd9d858c2f1748ea255df69682b",
+    "local_export_bytes": 22643,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/hamm.csv.zip"
+  },
+  {
+    "id": "debian/jessie",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "jessie.csv.zip": "951448bb117019a63d763854a31a5a74940a416ec51c06e1cfe95706e7b478a2"
+    },
+    "node_rows": 55163,
+    "edge_rows": 272512,
+    "semantics": "Sanitized full relational graph; isolates, virtual/missing nodes, parallel edges and loops preserved; no maintainer/descriptions/gprops.",
+    "local_export_sha256": "f833b3e6f2f1b692f4f9654271e388b5872bdbddcd6de5df0b9a9cf1da010281",
+    "local_export_bytes": 1818032,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/jessie.csv.zip"
+  },
+  {
+    "id": "debian-packages/jessie",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "jessie.csv.zip": "951448bb117019a63d763854a31a5a74940a416ec51c06e1cfe95706e7b478a2"
+    },
+    "node_rows": 43169,
+    "edge_rows": 175585,
+    "semantics": "Original node IDs preserved; package-only Depends/Pre-Depends induced subgraph, deduplicated and loop-free; package isolates retained.",
+    "local_export_sha256": "68e838cb7043e120f37e9439d1e7231b7170aa933c8cb8bb4b2f512b1ce12686",
+    "local_export_bytes": 844943,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/jessie.csv.zip"
+  },
+  {
+    "id": "debian/lenny",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "lenny.csv.zip": "a0f64f482c39dd2ba7be77d61646efc30202c3ac2cae9b9a1236aaac3fa1d108"
+    },
+    "node_rows": 29880,
+    "edge_rows": 143519,
+    "semantics": "Sanitized full relational graph; isolates, virtual/missing nodes, parallel edges and loops preserved; no maintainer/descriptions/gprops.",
+    "local_export_sha256": "cf2f4ccd5ff9a934133cd997d68b507472e3744ae18447abd027e4d4af36ba02",
+    "local_export_bytes": 949011,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/lenny.csv.zip"
+  },
+  {
+    "id": "debian-packages/lenny",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "lenny.csv.zip": "a0f64f482c39dd2ba7be77d61646efc30202c3ac2cae9b9a1236aaac3fa1d108"
+    },
+    "node_rows": 22926,
+    "edge_rows": 97219,
+    "semantics": "Original node IDs preserved; package-only Depends/Pre-Depends induced subgraph, deduplicated and loop-free; package isolates retained.",
+    "local_export_sha256": "12f03b0c979868cd686a50b60eef5e96fe1f9b97890a0521bbb8f5d9fa7dfedd",
+    "local_export_bytes": 455000,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/lenny.csv.zip"
+  },
+  {
+    "id": "debian/potato",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "potato.csv.zip": "4c84edecdafb20ee723e19ee795eb2503f88ed0c8740cd4c763d3f3a4ee133ff"
+    },
+    "node_rows": 5447,
+    "edge_rows": 19091,
+    "semantics": "Sanitized full relational graph; isolates, virtual/missing nodes, parallel edges and loops preserved; no maintainer/descriptions/gprops.",
+    "local_export_sha256": "e12112807c45896f5bcb60cb09a38c5ff4b9b14e246306c8cf61d842e41b6fcf",
+    "local_export_bytes": 134597,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/potato.csv.zip"
+  },
+  {
+    "id": "debian-packages/potato",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "potato.csv.zip": "4c84edecdafb20ee723e19ee795eb2503f88ed0c8740cd4c763d3f3a4ee133ff"
+    },
+    "node_rows": 4305,
+    "edge_rows": 10890,
+    "semantics": "Original node IDs preserved; package-only Depends/Pre-Depends induced subgraph, deduplicated and loop-free; package isolates retained.",
+    "local_export_sha256": "7c61843072252f9fc332c30156985cb427c40ba7f591964439d77b1c4c2e0501",
+    "local_export_bytes": 59857,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/potato.csv.zip"
+  },
+  {
+    "id": "debian/rex",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "rex.csv.zip": "3bb301d74419eab80bdfa008e0dde5e39172693921b75063b9abc046611353d2"
+    },
+    "node_rows": 910,
+    "edge_rows": 1977,
+    "semantics": "Sanitized full relational graph; isolates, virtual/missing nodes, parallel edges and loops preserved; no maintainer/descriptions/gprops.",
+    "local_export_sha256": "280583eb6efdfe6bd7d66d7cb14191fba27f58c519302eeca84c3d79d4689a1e",
+    "local_export_bytes": 16873,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/rex.csv.zip"
+  },
+  {
+    "id": "debian-packages/rex",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "rex.csv.zip": "3bb301d74419eab80bdfa008e0dde5e39172693921b75063b9abc046611353d2"
+    },
+    "node_rows": 738,
+    "edge_rows": 1012,
+    "semantics": "Original node IDs preserved; package-only Depends/Pre-Depends induced subgraph, deduplicated and loop-free; package isolates retained.",
+    "local_export_sha256": "f1a5a0f106ffab815e0abe367f671d24811db40f8bca40f49c3dc8127417dffc",
+    "local_export_bytes": 7350,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/rex.csv.zip"
+  },
+  {
+    "id": "debian/sarge",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "sarge.csv.zip": "c03a6c2938c2a44d64edb7c4f0edc3cf272d02140f24fca1f8f19a7765b07e92"
+    },
+    "node_rows": 19683,
+    "edge_rows": 101395,
+    "semantics": "Sanitized full relational graph; isolates, virtual/missing nodes, parallel edges and loops preserved; no maintainer/descriptions/gprops.",
+    "local_export_sha256": "3d02966d491a46460ae12397b564b2f1735d688a7a1f10fed57f1b192deb8f47",
+    "local_export_bytes": 635863,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/sarge.csv.zip"
+  },
+  {
+    "id": "debian-packages/sarge",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "sarge.csv.zip": "c03a6c2938c2a44d64edb7c4f0edc3cf272d02140f24fca1f8f19a7765b07e92"
+    },
+    "node_rows": 15657,
+    "edge_rows": 66365,
+    "semantics": "Original node IDs preserved; package-only Depends/Pre-Depends induced subgraph, deduplicated and loop-free; package isolates retained.",
+    "local_export_sha256": "92fbac5215b69f2fb49493a9495de9ea6d751b8f4cbe02ec4dd6669e60444097",
+    "local_export_bytes": 304403,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/sarge.csv.zip"
+  },
+  {
+    "id": "debian/slink",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "slink.csv.zip": "05a6f13db8024708277a1ab5df4a783bf62283a4a31a9b0e42f306dc99b05e6b"
+    },
+    "node_rows": 3288,
+    "edge_rows": 10184,
+    "semantics": "Sanitized full relational graph; isolates, virtual/missing nodes, parallel edges and loops preserved; no maintainer/descriptions/gprops.",
+    "local_export_sha256": "43bbd120bccb75a42ac9484233d4064b5cea305bccb3d562f0d4ef379eecd39d",
+    "local_export_bytes": 73884,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/slink.csv.zip"
+  },
+  {
+    "id": "debian-packages/slink",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "slink.csv.zip": "05a6f13db8024708277a1ab5df4a783bf62283a4a31a9b0e42f306dc99b05e6b"
+    },
+    "node_rows": 2664,
+    "edge_rows": 6112,
+    "semantics": "Original node IDs preserved; package-only Depends/Pre-Depends induced subgraph, deduplicated and loop-free; package isolates retained.",
+    "local_export_sha256": "ba5a4a569c2c87be328fcbcb9a66553bc6a12b8862f9ef4b33345c57c9602cb5",
+    "local_export_bytes": 34854,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/slink.csv.zip"
+  },
+  {
+    "id": "debian/squeeze",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "squeeze.csv.zip": "121c8a302645665660a9d172f24db50836582d06bebd9a8fbab101e1846cedc7"
+    },
+    "node_rows": 37457,
+    "edge_rows": 181005,
+    "semantics": "Sanitized full relational graph; isolates, virtual/missing nodes, parallel edges and loops preserved; no maintainer/descriptions/gprops.",
+    "local_export_sha256": "44fab4f62ba4abd3d3fde5a4c25842c2096c2ccdeba0ba70567ede25f512a504",
+    "local_export_bytes": 1208986,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/squeeze.csv.zip"
+  },
+  {
+    "id": "debian-packages/squeeze",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "squeeze.csv.zip": "121c8a302645665660a9d172f24db50836582d06bebd9a8fbab101e1846cedc7"
+    },
+    "node_rows": 28743,
+    "edge_rows": 122103,
+    "semantics": "Original node IDs preserved; package-only Depends/Pre-Depends induced subgraph, deduplicated and loop-free; package isolates retained.",
+    "local_export_sha256": "f47c99f4b24e02cccffe4418c8a2dbee015d9af3208c53bf0b004d6baa609458",
+    "local_export_bytes": 572891,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/squeeze.csv.zip"
+  },
+  {
+    "id": "debian/stretch",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "stretch.csv.zip": "caeb80470aaf775b286f6ab1576fcf69f59b6fe12fd6e1e98597e649da92e873"
+    },
+    "node_rows": 65905,
+    "edge_rows": 329208,
+    "semantics": "Sanitized full relational graph; isolates, virtual/missing nodes, parallel edges and loops preserved; no maintainer/descriptions/gprops.",
+    "local_export_sha256": "ca51fe31fdd108d3e131c4d73ae760db38ec82bb3a71aa88c7a3924c8445ef48",
+    "local_export_bytes": 2178453,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/stretch.csv.zip"
+  },
+  {
+    "id": "debian-packages/stretch",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "stretch.csv.zip": "caeb80470aaf775b286f6ab1576fcf69f59b6fe12fd6e1e98597e649da92e873"
+    },
+    "node_rows": 51348,
+    "edge_rows": 209649,
+    "semantics": "Original node IDs preserved; package-only Depends/Pre-Depends induced subgraph, deduplicated and loop-free; package isolates retained.",
+    "local_export_sha256": "7bb82487103768439f9331cc1461db8ff4ac1bc347270f31569c84358e7d5494",
+    "local_export_bytes": 1012000,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/stretch.csv.zip"
+  },
+  {
+    "id": "debian/trixie",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "trixie.csv.zip": "4ee45043e63e861c90fe0add90a7b084e468f3838171592de4a9f7a70f9db582"
+    },
+    "node_rows": 142865,
+    "edge_rows": 469732,
+    "semantics": "Sanitized full relational graph; isolates, virtual/missing nodes, parallel edges and loops preserved; no maintainer/descriptions/gprops.",
+    "local_export_sha256": "89422ff08a703ae4e9ff640a5029987c4de054eadda84958b84c9c87a395c0bd",
+    "local_export_bytes": 3428314,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/trixie.csv.zip"
+  },
+  {
+    "id": "debian-packages/trixie",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "trixie.csv.zip": "4ee45043e63e861c90fe0add90a7b084e468f3838171592de4a9f7a70f9db582"
+    },
+    "node_rows": 67834,
+    "edge_rows": 251986,
+    "semantics": "Original node IDs preserved; package-only Depends/Pre-Depends induced subgraph, deduplicated and loop-free; package isolates retained.",
+    "local_export_sha256": "e231c7bd37a4ad205074c1f423e0ad3d82b6526ac3d7694ba494efda7d26225e",
+    "local_export_bytes": 1289670,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/trixie.csv.zip"
+  },
+  {
+    "id": "debian/wheezy",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "wheezy.csv.zip": "f8ecf585a7e3c5d73d139d51cbcc415e79516465a6adbd113555d57e6579585e"
+    },
+    "node_rows": 47049,
+    "edge_rows": 223368,
+    "semantics": "Sanitized full relational graph; isolates, virtual/missing nodes, parallel edges and loops preserved; no maintainer/descriptions/gprops.",
+    "local_export_sha256": "59d2c2996b32599ba8bcf2e6c3705094e1034c9f4b78809dc9823a50d917fed0",
+    "local_export_bytes": 1504815,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/wheezy.csv.zip"
+  },
+  {
+    "id": "debian-packages/wheezy",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "wheezy.csv.zip": "f8ecf585a7e3c5d73d139d51cbcc415e79516465a6adbd113555d57e6579585e"
+    },
+    "node_rows": 36688,
+    "edge_rows": 147632,
+    "semantics": "Original node IDs preserved; package-only Depends/Pre-Depends induced subgraph, deduplicated and loop-free; package isolates retained.",
+    "local_export_sha256": "683c32d34ec90775676f7705244d3903aa5fef22848b6c3eb77d1ce1ce0b2976",
+    "local_export_bytes": 710554,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/wheezy.csv.zip"
+  },
+  {
+    "id": "debian/woody",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "woody.csv.zip": "1d7a33f3ca45715da05b5d67b2e1345b73e6023163714b10bfb29fe52b3508aa"
+    },
+    "node_rows": 10913,
+    "edge_rows": 44972,
+    "semantics": "Sanitized full relational graph; isolates, virtual/missing nodes, parallel edges and loops preserved; no maintainer/descriptions/gprops.",
+    "local_export_sha256": "d593f85c4bded5e93eb227f6f7356f0b3d9edbd1a5d6ba0f6e5191d30301cb84",
+    "local_export_bytes": 304790,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/woody.csv.zip"
+  },
+  {
+    "id": "debian-packages/woody",
+    "source": "https://networks.skewed.de/net/debian_dependencies",
+    "license": "NOASSERTION: upstream dataset page does not state a data license; prior CC-BY claim not substantiated",
+    "inputs": {
+      "woody.csv.zip": "1d7a33f3ca45715da05b5d67b2e1345b73e6023163714b10bfb29fe52b3508aa"
+    },
+    "node_rows": 8747,
+    "edge_rows": 29054,
+    "semantics": "Original node IDs preserved; package-only Depends/Pre-Depends induced subgraph, deduplicated and loop-free; package isolates retained.",
+    "local_export_sha256": "2e5e7eaab0d8aed67e581ffe8a17195c987e3451c4a634a6a7b8290b144b8ceb",
+    "local_export_bytes": 142395,
+    "status": "withheld-unverified-upstream-license",
+    "upstream_archive_url": "https://networks.skewed.de/net/debian_dependencies/files/woody.csv.zip"
+  },
+  {
+    "id": "npm/2016",
+    "asset": "npm2016-sanitized.zip",
+    "url": "https://github.com/shibaeff/oss-dependency-network-data/releases/download/v1.0.0/npm2016-sanitized.zip",
+    "bytes": 3506110,
+    "sha256": "56efb329777b752c53ad0bb41345a40b4572c65bb1ed8acbc010d71d9dd728e9",
+    "source": "https://doi.org/10.6084/m9.figshare.3081640.v3",
+    "license": "CC-BY-4.0; attribution via upstream DOI and network catalog; transformed CSV removes layout and graph metadata",
+    "inputs": {
+      "historical.csv.zip": "a43756238ec6e8d0ae4bead5360c26ffa42837495aa3c04925d8b2c4f948ee41"
+    },
+    "node_rows": 154744,
+    "edge_rows": 517098,
+    "semantics": "2016 source node IDs, loops and edge multiplicities retained. Source excludes packages without any dependency relation.",
+    "status": "published"
+  },
+  {
+    "id": "npm/modern",
+    "source": "https://registry.npmjs.org/",
+    "license": "NOASSERTION: registry factual dependency relations only; no blanket package-content license asserted",
+    "inputs": {
+      "edges.json": "713e5ac4dcef5f7589482d3b100d73943b91b6d8271bd250869ccc67174f70a9",
+      "dependencies.graphml": "624df3c9a01b4ba793dc25e6f4edf3502656cd6ff024e40a7e21cbf27ab67349"
+    },
+    "node_rows": 443,
+    "edge_rows": 884,
+    "semantics": "Bounded 15-seed BFS pilot, latest metadata at cached retrieval times; depth <=5, cap 800 fetched; production only, boundary nodes included; not registry census.",
+    "local_export_sha256": "24cafc3f1c01f90955ea98f934c8e16088b76dd51fe18d5768b199c8cfd61b5e",
+    "local_export_bytes": 6363,
+    "status": "withheld-unverified-upstream-license"
+  },
+  {
+    "id": "librariesio/Cargo",
+    "status": "withheld-license-conflict",
+    "source": "https://zenodo.org/records/3626071",
+    "license": "CONFLICT: API metadata cc-by-4.0; description explicitly Attribution-ShareAlike 4.0; payload withheld pending clarification",
+    "inputs": {
+      "nodes.parquet": "0e702747927283e4c02ad320eec1037003033e592b4199ebedd1c91add39b1b1",
+      "edges.parquet": "e622e7bcef8f2ae6a6424f8a1bfad0ca89f74a5651612f7456268e88a27b9d62"
+    },
+    "node_rows": 35635,
+    "edge_rows": 109273,
+    "upstream_archive_md5": "4f2275284b86827751bb31ce74238b15",
+    "upstream_archive_bytes": 24890021718
+  },
+  {
+    "id": "librariesio/Maven",
+    "status": "withheld-license-conflict",
+    "source": "https://zenodo.org/records/3626071",
+    "license": "CONFLICT: API metadata cc-by-4.0; description explicitly Attribution-ShareAlike 4.0; payload withheld pending clarification",
+    "inputs": {
+      "nodes.parquet": "f2b946cb686906e28aa2dbb3f760910ea61025582d59e30efcaea7cb8cf76d9a",
+      "edges.parquet": "101c1ea4808ebd01680e434e86f21688490f4f036bbf4e3fdf9546b0d4928c4f"
+    },
+    "node_rows": 184871,
+    "edge_rows": 291068,
+    "upstream_archive_md5": "4f2275284b86827751bb31ce74238b15",
+    "upstream_archive_bytes": 24890021718
+  },
+  {
+    "id": "librariesio/NPM",
+    "status": "withheld-license-conflict",
+    "source": "https://zenodo.org/records/3626071",
+    "license": "CONFLICT: API metadata cc-by-4.0; description explicitly Attribution-ShareAlike 4.0; payload withheld pending clarification",
+    "inputs": {
+      "nodes.parquet": "e5f0f374c4d367161de3b3cb7a40b39820d519dbb5e171272a0417db61eb0ce8",
+      "edges.parquet": "ecf103bcdbcf76c3b8dfa173c1f968871ef84626ccb1e70b0c580879e57ecc55"
+    },
+    "node_rows": 1275082,
+    "edge_rows": 4076207,
+    "upstream_archive_md5": "4f2275284b86827751bb31ce74238b15",
+    "upstream_archive_bytes": 24890021718
+  },
+  {
+    "id": "librariesio/Pypi",
+    "status": "withheld-license-conflict",
+    "source": "https://zenodo.org/records/3626071",
+    "license": "CONFLICT: API metadata cc-by-4.0; description explicitly Attribution-ShareAlike 4.0; payload withheld pending clarification",
+    "inputs": {
+      "nodes.parquet": "f09a2d6d8952c7757e51cac8e2b3876bb59235a057fde4e502429182ba42928d",
+      "edges.parquet": "0549b52626acd764668339108cb58adf4e55ea0c58370fc539d26b1fc1183efa"
+    },
+    "node_rows": 231690,
+    "edge_rows": 66825,
+    "upstream_archive_md5": "4f2275284b86827751bb31ce74238b15",
+    "upstream_archive_bytes": 24890021718
+  },
+  {
+    "id": "derived/npm2016-partitions",
+    "status": "published",
+    "asset": "npm2016-partitions.csv.gz",
+    "url": "https://github.com/shibaeff/oss-dependency-network-data/releases/download/v1.0.0/npm2016-partitions.csv.gz",
+    "bytes": 548936,
+    "sha256": "30e1a3a8f76d35f18d15688fc5ed3f464d0c28bd06206156f68a902feedd04fc",
+    "source": "https://doi.org/10.6084/m9.figshare.3081640.v3",
+    "license": "CC-BY-4.0; graph-derived partition assignments; attribution via upstream DOI",
+    "inputs": {
+      "npm2016_blocks.npz": "8655efa6b81e0ebc5e9831119aa1ffd46aa804d4463d7aaf3910063d6718f72f"
+    },
+    "node_rows": 154744,
+    "edge_rows": 0,
+    "semantics": "Nested degree-corrected directed SBM assignments, saved fit; numeric labels arbitrary; node_id equals original npm2016 node ID. Fit used simple loop-free graph (517051 edges). No info string copied."
+  }
+]

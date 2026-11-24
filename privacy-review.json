@@ -1,0 +1,9 @@
+{
+  "scope": "All intended repository text files plus streamed fields of all local graph CSV exports; partition supplement parsed separately",
+  "repository_files_scanned": 23,
+  "blocking_findings": 0,
+  "dummy_fixture_exception": "test@example.invalid in negative unit test only",
+  "minimization": "Node/edge schema allowlists; raw identities, maintainers, descriptions, coordinates, graph free text and private reports omitted",
+  "local_graph_validation_count": 66,
+  "workers": 1
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "file": "results/summary.json",
+    "source_relative": "research_v4/results/summary.json",
+    "source_sha256": "7350b3f65075d453e5d775a6d068b88d964a38cf1f37f81e78404ca7645ade5c",
+    "sha256": "7350b3f65075d453e5d775a6d068b88d964a38cf1f37f81e78404ca7645ade5c",
+    "transformation": "Only numeric, boolean, null leaves retained; string-valued fields omitted. Private reports/code not copied."
+  },
+  {
+    "file": "results/prediction_models.json",
+    "source_relative": "research_v4/results/prediction_models.json",
+    "source_sha256": "1497af2c9fab71b7ef825bfb1873df97f75fdd79ed221b0ad9473a752266578e",
+    "sha256": "ac764b5d84b6ba3bb0404b2c26bc533ada2beb9bf135cbaa0145cb6fdc2fcf95",
+    "transformation": "Only numeric, boolean, null leaves retained; string-valued fields omitted. Private reports/code not copied."
+  },
+  {
+    "file": "results/h03_growth_crates.json",
+    "source_relative": "research_v2/results/h03_growth_crates.json",
+    "source_sha256": "8625c6ad33d4b354a3a5b4055768338698c78eb5a0e727bc36019b6cff5900d5",
+    "sha256": "7222db59c641e5c3e5b33547c4eef40a83f1857fdae304a8c80a527a491f2d2a",
+    "transformation": "Only numeric, boolean, null leaves retained; string-valued fields omitted. Private reports/code not copied."
+  },
+  {
+    "file": "results/h07_cross_Cargo.json",
+    "source_relative": "research_v2/results/h07_cross_Cargo.json",
+    "source_sha256": "525b26f6d2ab29d8a6bb668c1b69f651386d63cda4e70621e433574991187054",
+    "sha256": "d8a78c67dee627473c2d8550af6f16a68fe9b268855a12eaa8a0ebd7cdd85656",
+    "transformation": "Only numeric, boolean, null leaves retained; string-valued fields omitted. Private reports/code not copied."
+  },
+  {
+    "file": "results/h07_cross_Maven.json",
+    "source_relative": "research_v2/results/h07_cross_Maven.json",
+    "source_sha256": "873e4a4eb6eb32cadb17709869cd91f829670e926f9c0230feb604787597e6ab",
+    "sha256": "a235542bd37e66bc9c95ed9b58a4d29e7d29857b0ddcc1cc570b1cb351e22783",
+    "transformation": "Only numeric, boolean, null leaves retained; string-valued fields omitted. Private reports/code not copied."
+  },
+  {
+    "file": "results/h07_cross_NPM.json",
+    "source_relative": "research_v2/results/h07_cross_NPM.json",
+    "source_sha256": "47f3fdf5b05b7fe28341cde92929f327176599b104dd5736f5b3ebcb2fc21378",
+    "sha256": "8d21fb7bca1f4f6bfca807eeb310e3a264e19f35d3b5bfa51fe7de676831fc14",
+    "transformation": "Only numeric, boolean, null leaves retained; string-valued fields omitted. Private reports/code not copied."
+  },
+  {
+    "file": "results/h07_cross_Pypi.json",
+    "source_relative": "research_v2/results/h07_cross_Pypi.json",
+    "source_sha256": "dae16a0dc33814f10f1c71a317a01110be401e82dacf62a14bf4c3249fe48fd1",
+    "sha256": "ea9192d6f1dee66954bb3d168d420692d4715e17c9a19f2bedb5e9df3643dcbb",
+    "transformation": "Only numeric, boolean, null leaves retained; string-valued fields omitted. Private reports/code not copied."
+  }
+]

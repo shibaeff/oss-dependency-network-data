@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://zenodo.org/api/records/3626071",
+    "retrieved_utc": "2026-11-24T02:31:26.230920+00:00",
+    "page_sha256": "0291621aa8b7b4cba7303087072a86d299e4d81e8f22dbfeffcba1da6a136fed"
+  },
+  {
+    "url": "https://networks.skewed.de/net/debian_dependencies",
+    "retrieved_utc": "2026-11-24T02:31:26.391425+00:00",
+    "page_sha256": "e65e6096d628e5b4d9fc2c8c16e6c03e86637e99ff50625580d13fd42e049d0e"
+  },
+  {
+    "url": "https://networks.skewed.de/net/npm_dependencies",
+    "retrieved_utc": "2026-11-24T02:31:26.471133+00:00",
+    "page_sha256": "b1ae0740b55e948c30a0c8874efacc52a1cf3ae2d5f3d3b040cc90ee3b6bfb86"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/rust-lang/crates.io/main/svelte/src/routes/data-access/+page.svelte",
+    "retrieved_utc": "2026-11-24T02:31:26.520902+00:00",
+    "page_sha256": "598be11828a8662dee539787d24407e940b0e40bcc2d329b840c07c0e7e21dc8"
+  }
+]

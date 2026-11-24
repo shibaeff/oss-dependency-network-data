@@ -1,0 +1,533 @@
+{
+  "scope": "Local sanitized exports, including withheld datasets. Not a claim these are all published.",
+  "graphs": [
+    {
+      "asset": "crates-at_2015-01-01.zip",
+      "nodes": 552,
+      "edges": 472,
+      "self_loop_rows": 0,
+      "isolates": 229,
+      "sha256": "7a5f9a1e356adab09e7113af287e17ae0cb628678f61dd23223fcfc1c5a86702"
+    },
+    {
+      "asset": "crates-at_2015-07-01.zip",
+      "nodes": 1840,
+      "edges": 3649,
+      "self_loop_rows": 0,
+      "isolates": 472,
+      "sha256": "b40e212bdccebcda7ff56476308ae2a6ad6bc288ba7ffc4ada0b7d1dbf6307dd"
+    },
+    {
+      "asset": "crates-at_2016-01-01.zip",
+      "nodes": 2994,
+      "edges": 7148,
+      "self_loop_rows": 1,
+      "isolates": 644,
+      "sha256": "bb1e8e63f36f109e77e7ab745b3e703a6b0a8920d1678ebf2e37f2f5e54de0cf"
+    },
+    {
+      "asset": "crates-at_2016-07-01.zip",
+      "nodes": 4462,
+      "edges": 11728,
+      "self_loop_rows": 1,
+      "isolates": 849,
+      "sha256": "12cd8386e0e03244e2a55a61679633cb6c7755be20ece256b1316c5745a2440c"
+    },
+    {
+      "asset": "crates-at_2017-01-01.zip",
+      "nodes": 6356,
+      "edges": 19211,
+      "self_loop_rows": 2,
+      "isolates": 1122,
+      "sha256": "f282782e4434c60f20554d31e25abac59e495e9d09141cc25c5a71e30c6c72a2"
+    },
+    {
+      "asset": "crates-at_2017-07-01.zip",
+      "nodes": 8851,
+      "edges": 29436,
+      "self_loop_rows": 2,
+      "isolates": 1429,
+      "sha256": "52ebd0fe27e9d6aa6ed77deeb0c58bdd4625fe15cb2809dae5a27888df570290"
+    },
+    {
+      "asset": "crates-at_2018-01-01.zip",
+      "nodes": 11576,
+      "edges": 41479,
+      "self_loop_rows": 3,
+      "isolates": 1816,
+      "sha256": "e56327c9b839e569658516300323c04f26ce2c92f25f3582ba6a57d66a6df6f7"
+    },
+    {
+      "asset": "crates-at_2018-07-01.zip",
+      "nodes": 14843,
+      "edges": 56370,
+      "self_loop_rows": 7,
+      "isolates": 2265,
+      "sha256": "693bfd52d18b1eec3859c65ace30f280d97f7ecfa1573f887eb716208ecfe414"
+    },
+    {
+      "asset": "crates-at_2019-01-01.zip",
+      "nodes": 18875,
+      "edges": 75650,
+      "self_loop_rows": 6,
+      "isolates": 2820,
+      "sha256": "9eca73504836383115edef3616b4d61b851fb9e1e78ed8ad26dbe607bb0ee360"
+    },
+    {
+      "asset": "crates-at_2019-07-01.zip",
+      "nodes": 23933,
+      "edges": 100890,
+      "self_loop_rows": 8,
+      "isolates": 3521,
+      "sha256": "4f2299b9eeb457f8af4e56bc2b73170dc59ebfd396448f2be2ac4dde4482a09a"
+    },
+    {
+      "asset": "crates-at_2020-01-01.zip",
+      "nodes": 29670,
+      "edges": 130033,
+      "self_loop_rows": 7,
+      "isolates": 4390,
+      "sha256": "35b4da15f06e0ce8d368e7ad7ea78867c50c8c41bc55b98717e1626a44be51f6"
+    },
+    {
+      "asset": "crates-at_2020-07-01.zip",
+      "nodes": 37475,
+      "edges": 174889,
+      "self_loop_rows": 8,
+      "isolates": 5280,
+      "sha256": "d13c555bd08991b4f3c4df88b14b621f978f955370e45b574190f27b624baea7"
+    },
+    {
+      "asset": "crates-at_2021-01-01.zip",
+      "nodes": 45905,
+      "edges": 222969,
+      "self_loop_rows": 12,
+      "isolates": 6367,
+      "sha256": "54aa571a67d6e94fb3e4f974b02415241810c73aead8cb2c88d62275aaa1db2a"
+    },
+    {
+      "asset": "crates-at_2021-07-01.zip",
+      "nodes": 55475,
+      "edges": 283822,
+      "self_loop_rows": 13,
+      "isolates": 7596,
+      "sha256": "83f705b8eed19febd9d2acc751c1ea4451cbe200425552808067c425fb9476d4"
+    },
+    {
+      "asset": "crates-at_2022-01-01.zip",
+      "nodes": 64822,
+      "edges": 344961,
+      "self_loop_rows": 19,
+      "isolates": 8760,
+      "sha256": "c7ee49288833854373eb470a8e1d5591fa8c20027e154f38b282da5b19d22ef5"
+    },
+    {
+      "asset": "crates-at_2022-07-01.zip",
+      "nodes": 76300,
+      "edges": 416034,
+      "self_loop_rows": 24,
+      "isolates": 10417,
+      "sha256": "c2375ca62312b55fcfde8c1cfcfd221210b0d84d9396bc9a8152021fedbeae69"
+    },
+    {
+      "asset": "crates-at_2023-01-01.zip",
+      "nodes": 88688,
+      "edges": 495311,
+      "self_loop_rows": 27,
+      "isolates": 12247,
+      "sha256": "5285f93cf0826117d9bfa122e97cf780cfd5d0d0e32bde331c43ecf80cba83f9"
+    },
+    {
+      "asset": "crates-at_2023-07-01.zip",
+      "nodes": 104732,
+      "edges": 607664,
+      "self_loop_rows": 29,
+      "isolates": 14272,
+      "sha256": "fd8eff9ce8fe357c5260a2ec9e7c0f3913e18ff721fbee847c70b48ee18132b9"
+    },
+    {
+      "asset": "crates-at_2024-01-01.zip",
+      "nodes": 119922,
+      "edges": 717681,
+      "self_loop_rows": 33,
+      "isolates": 16233,
+      "sha256": "2cfbc6fc0833590cfa33302587e57fdfc25afd46ea3c65b20a220c3609eea05e"
+    },
+    {
+      "asset": "crates-at_2024-07-01.zip",
+      "nodes": 136446,
+      "edges": 841011,
+      "self_loop_rows": 37,
+      "isolates": 18282,
+      "sha256": "e2e8606873c90da0e31babe2659f30232f8fa696228285719e60e4ca716fd5b3"
+    },
+    {
+      "asset": "crates-at_2025-01-01.zip",
+      "nodes": 154575,
+      "edges": 978662,
+      "self_loop_rows": 46,
+      "isolates": 20236,
+      "sha256": "3895f12398b7937b9dd17e1db14b7d61f545612f4411ae91dd29004c93696ec1"
+    },
+    {
+      "asset": "crates-at_2025-07-01.zip",
+      "nodes": 175431,
+      "edges": 1146566,
+      "self_loop_rows": 47,
+      "isolates": 22681,
+      "sha256": "bde104388acb19f7feb315f58473dd3134301610152cf0202d3faa33ca0509d7"
+    },
+    {
+      "asset": "crates-at_2026-01-01.zip",
+      "nodes": 203531,
+      "edges": 1422063,
+      "self_loop_rows": 57,
+      "isolates": 24892,
+      "sha256": "720e9a5a286550b3b6001476fb69b0554b43c009909838d20608c5dc67a07892"
+    },
+    {
+      "asset": "crates-at_2026-07-01.zip",
+      "nodes": 280243,
+      "edges": 2171210,
+      "self_loop_rows": 64,
+      "isolates": 30426,
+      "sha256": "3548afd6c124ed92507bdfe28aa73ec8441a0747f05793d78a6c8bd1b03eebe2"
+    },
+    {
+      "asset": "crates-at_2026-11-11.zip",
+      "nodes": 366144,
+      "edges": 2967216,
+      "self_loop_rows": 94,
+      "isolates": 36223,
+      "sha256": "3e6df31eb6e815120b6bb5254dda643c82054e1e0c7e9184f8d8ffc669dd0d81"
+    },
+    {
+      "asset": "crates-latest.zip",
+      "nodes": 374759,
+      "edges": 3007678,
+      "self_loop_rows": 83,
+      "isolates": 38711,
+      "sha256": "753fda54371c2bf8647862461915bcb1cc8db0eccb70a6bda8e72184a2121f98"
+    },
+    {
+      "asset": "debian-0.93r6.csv.zip",
+      "nodes": 309,
+      "edges": 364,
+      "self_loop_rows": 7,
+      "isolates": 90,
+      "sha256": "5bfdd7ff7d8ed1ee4fd29ff93ac879eb2d08df0da8db6cfb2205e4fe94986148"
+    },
+    {
+      "asset": "debian-0.93r6-packages.zip",
+      "nodes": 256,
+      "edges": 114,
+      "self_loop_rows": 0,
+      "isolates": 146,
+      "sha256": "37b324f6db816f3f447767ff6f35451048601210aa6af0cb89ec887bffa0c7e3"
+    },
+    {
+      "asset": "debian-bo.csv.zip",
+      "nodes": 1354,
+      "edges": 3119,
+      "self_loop_rows": 9,
+      "isolates": 57,
+      "sha256": "66ea2e469a1b7cce48a405ed0e0fbd13c3d7c991a5505bd375bdbd0c341ba8e9"
+    },
+    {
+      "asset": "debian-bo-packages.zip",
+      "nodes": 1126,
+      "edges": 1818,
+      "self_loop_rows": 0,
+      "isolates": 135,
+      "sha256": "518407d596051324a1792e5fa644baf71843a319b2d107a825bc68410ecdaf26"
+    },
+    {
+      "asset": "debian-bookworm.csv.zip",
+      "nodes": 107564,
+      "edges": 413462,
+      "self_loop_rows": 143,
+      "isolates": 1523,
+      "sha256": "2e7f40c8473e23b3202ae334345583b0077d90753ce3af274407ff449ba0948c"
+    },
+    {
+      "asset": "debian-bookworm-packages.zip",
+      "nodes": 63468,
+      "edges": 245313,
+      "self_loop_rows": 0,
+      "isolates": 5703,
+      "sha256": "16da361201393358f46ec8cdfd66ec1b871a3bcc9ee62e178a871697c88e8aa4"
+    },
+    {
+      "asset": "debian-bullseye.csv.zip",
+      "nodes": 87345,
+      "edges": 373714,
+      "self_loop_rows": 144,
+      "isolates": 1250,
+      "sha256": "7ca39d126ace4295d0ac01a61b665d501003369822258b8c66bef2a673feb6ed"
+    },
+    {
+      "asset": "debian-bullseye-packages.zip",
+      "nodes": 59029,
+      "edges": 227246,
+      "self_loop_rows": 0,
+      "isolates": 5342,
+      "sha256": "c04ddc36b72c5f6194e665cf940e064ceedabe154686191b7e80543fe5139a4b"
+    },
+    {
+      "asset": "debian-buster.csv.zip",
+      "nodes": 81121,
+      "edges": 393914,
+      "self_loop_rows": 117,
+      "isolates": 932,
+      "sha256": "a44eb5f54d616d988bec58272ba5b634ec02155579d2dbe04dc0b109efa6eba1"
+    },
+    {
+      "asset": "debian-buster-packages.zip",
+      "nodes": 57370,
+      "edges": 234092,
+      "self_loop_rows": 0,
+      "isolates": 4537,
+      "sha256": "327d97ac6199fbc18c59f6928dd9b846eae4d10093fefcba013fa69ae4d48f87"
+    },
+    {
+      "asset": "debian-buzz.csv.zip",
+      "nodes": 619,
+      "edges": 1274,
+      "self_loop_rows": 7,
+      "isolates": 28,
+      "sha256": "232804e87000dab439837e0d4c96232e452caf5d2b313cdd61c9e6c0abbfe3c5"
+    },
+    {
+      "asset": "debian-buzz-packages.zip",
+      "nodes": 482,
+      "edges": 599,
+      "self_loop_rows": 0,
+      "isolates": 73,
+      "sha256": "2dc08330e116159c4c7835f2dc9136109485f159960bbea595f9d3370b8958d5"
+    },
+    {
+      "asset": "debian-etch.csv.zip",
+      "nodes": 24427,
+      "edges": 125918,
+      "self_loop_rows": 45,
+      "isolates": 245,
+      "sha256": "f5a4c7d875b1ab495f7ab8e4b6bdd784b765cca20cf2eb2c87e5fafe5f35d847"
+    },
+    {
+      "asset": "debian-etch-packages.zip",
+      "nodes": 18601,
+      "edges": 87201,
+      "self_loop_rows": 0,
+      "isolates": 1351,
+      "sha256": "f87ecb4e2eedac1351bd00a72c779ad32a454d96ddbe83790cc6afff70f78967"
+    },
+    {
+      "asset": "debian-hamm.csv.zip",
+      "nodes": 2312,
+      "edges": 6276,
+      "self_loop_rows": 20,
+      "isolates": 57,
+      "sha256": "cf0cc84bf70c2443f403375c5a2d3dda72d8d1fcdd2587f0d1af5859cff668a5"
+    },
+    {
+      "asset": "debian-hamm-packages.zip",
+      "nodes": 1852,
+      "edges": 3733,
+      "self_loop_rows": 0,
+      "isolates": 178,
+      "sha256": "fc07b36d4141362193d335d10f01727664510fd9d858c2f1748ea255df69682b"
+    },
+    {
+      "asset": "debian-jessie.csv.zip",
+      "nodes": 55163,
+      "edges": 272512,
+      "self_loop_rows": 87,
+      "isolates": 589,
+      "sha256": "f833b3e6f2f1b692f4f9654271e388b5872bdbddcd6de5df0b9a9cf1da010281"
+    },
+    {
+      "asset": "debian-jessie-packages.zip",
+      "nodes": 43169,
+      "edges": 175585,
+      "self_loop_rows": 0,
+      "isolates": 3226,
+      "sha256": "68e838cb7043e120f37e9439d1e7231b7170aa933c8cb8bb4b2f512b1ce12686"
+    },
+    {
+      "asset": "debian-lenny.csv.zip",
+      "nodes": 29880,
+      "edges": 143519,
+      "self_loop_rows": 46,
+      "isolates": 284,
+      "sha256": "cf2f4ccd5ff9a934133cd997d68b507472e3744ae18447abd027e4d4af36ba02"
+    },
+    {
+      "asset": "debian-lenny-packages.zip",
+      "nodes": 22926,
+      "edges": 97219,
+      "self_loop_rows": 0,
+      "isolates": 1559,
+      "sha256": "12f03b0c979868cd686a50b60eef5e96fe1f9b97890a0521bbb8f5d9fa7dfedd"
+    },
+    {
+      "asset": "debian-potato.csv.zip",
+      "nodes": 5447,
+      "edges": 19091,
+      "self_loop_rows": 23,
+      "isolates": 90,
+      "sha256": "e12112807c45896f5bcb60cb09a38c5ff4b9b14e246306c8cf61d842e41b6fcf"
+    },
+    {
+      "asset": "debian-potato-packages.zip",
+      "nodes": 4305,
+      "edges": 10890,
+      "self_loop_rows": 0,
+      "isolates": 454,
+      "sha256": "7c61843072252f9fc332c30156985cb427c40ba7f591964439d77b1c4c2e0501"
+    },
+    {
+      "asset": "debian-rex.csv.zip",
+      "nodes": 910,
+      "edges": 1977,
+      "self_loop_rows": 10,
+      "isolates": 35,
+      "sha256": "280583eb6efdfe6bd7d66d7cb14191fba27f58c519302eeca84c3d79d4689a1e"
+    },
+    {
+      "asset": "debian-rex-packages.zip",
+      "nodes": 738,
+      "edges": 1012,
+      "self_loop_rows": 0,
+      "isolates": 83,
+      "sha256": "f1a5a0f106ffab815e0abe367f671d24811db40f8bca40f49c3dc8127417dffc"
+    },
+    {
+      "asset": "debian-sarge.csv.zip",
+      "nodes": 19683,
+      "edges": 101395,
+      "self_loop_rows": 35,
+      "isolates": 199,
+      "sha256": "3d02966d491a46460ae12397b564b2f1735d688a7a1f10fed57f1b192deb8f47"
+    },
+    {
+      "asset": "debian-sarge-packages.zip",
+      "nodes": 15657,
+      "edges": 66365,
+      "self_loop_rows": 0,
+      "isolates": 1153,
+      "sha256": "92fbac5215b69f2fb49493a9495de9ea6d751b8f4cbe02ec4dd6669e60444097"
+    },
+    {
+      "asset": "debian-slink.csv.zip",
+      "nodes": 3288,
+      "edges": 10184,
+      "self_loop_rows": 18,
+      "isolates": 85,
+      "sha256": "43bbd120bccb75a42ac9484233d4064b5cea305bccb3d562f0d4ef379eecd39d"
+    },
+    {
+      "asset": "debian-slink-packages.zip",
+      "nodes": 2664,
+      "edges": 6112,
+      "self_loop_rows": 0,
+      "isolates": 280,
+      "sha256": "ba5a4a569c2c87be328fcbcb9a66553bc6a12b8862f9ef4b33345c57c9602cb5"
+    },
+    {
+      "asset": "debian-squeeze.csv.zip",
+      "nodes": 37457,
+      "edges": 181005,
+      "self_loop_rows": 68,
+      "isolates": 437,
+      "sha256": "44fab4f62ba4abd3d3fde5a4c25842c2096c2ccdeba0ba70567ede25f512a504"
+    },
+    {
+      "asset": "debian-squeeze-packages.zip",
+      "nodes": 28743,
+      "edges": 122103,
+      "self_loop_rows": 0,
+      "isolates": 2285,
+      "sha256": "f47c99f4b24e02cccffe4418c8a2dbee015d9af3208c53bf0b004d6baa609458"
+    },
+    {
+      "asset": "debian-stretch.csv.zip",
+      "nodes": 65905,
+      "edges": 329208,
+      "self_loop_rows": 101,
+      "isolates": 708,
+      "sha256": "ca51fe31fdd108d3e131c4d73ae760db38ec82bb3a71aa88c7a3924c8445ef48"
+    },
+    {
+      "asset": "debian-stretch-packages.zip",
+      "nodes": 51348,
+      "edges": 209649,
+      "self_loop_rows": 0,
+      "isolates": 3566,
+      "sha256": "7bb82487103768439f9331cc1461db8ff4ac1bc347270f31569c84358e7d5494"
+    },
+    {
+      "asset": "debian-trixie.csv.zip",
+      "nodes": 142865,
+      "edges": 469732,
+      "self_loop_rows": 137,
+      "isolates": 1777,
+      "sha256": "89422ff08a703ae4e9ff640a5029987c4de054eadda84958b84c9c87a395c0bd"
+    },
+    {
+      "asset": "debian-trixie-packages.zip",
+      "nodes": 67834,
+      "edges": 251986,
+      "self_loop_rows": 0,
+      "isolates": 8480,
+      "sha256": "e231c7bd37a4ad205074c1f423e0ad3d82b6526ac3d7694ba494efda7d26225e"
+    },
+    {
+      "asset": "debian-wheezy.csv.zip",
+      "nodes": 47049,
+      "edges": 223368,
+      "self_loop_rows": 44,
+      "isolates": 473,
+      "sha256": "59d2c2996b32599ba8bcf2e6c3705094e1034c9f4b78809dc9823a50d917fed0"
+    },
+    {
+      "asset": "debian-wheezy-packages.zip",
+      "nodes": 36688,
+      "edges": 147632,
+      "self_loop_rows": 0,
+      "isolates": 2571,
+      "sha256": "683c32d34ec90775676f7705244d3903aa5fef22848b6c3eb77d1ce1ce0b2976"
+    },
+    {
+      "asset": "debian-woody.csv.zip",
+      "nodes": 10913,
+      "edges": 44972,
+      "self_loop_rows": 28,
+      "isolates": 151,
+      "sha256": "d593f85c4bded5e93eb227f6f7356f0b3d9edbd1a5d6ba0f6e5191d30301cb84"
+    },
+    {
+      "asset": "debian-woody-packages.zip",
+      "nodes": 8747,
+      "edges": 29054,
+      "self_loop_rows": 0,
+      "isolates": 739,
+      "sha256": "2e5e7eaab0d8aed67e581ffe8a17195c987e3451c4a634a6a7b8290b144b8ceb"
+    },
+    {
+      "asset": "npm2016-sanitized.zip",
+      "nodes": 154744,
+      "edges": 517098,
+      "self_loop_rows": 47,
+      "isolates": 0,
+      "sha256": "56efb329777b752c53ad0bb41345a40b4572c65bb1ed8acbc010d71d9dd728e9"
+    },
+    {
+      "asset": "npm-modern-sanitized.zip",
+      "nodes": 443,
+      "edges": 884,
+      "self_loop_rows": 0,
+      "isolates": 3,
+      "sha256": "24cafc3f1c01f90955ea98f934c8e16088b76dd51fe18d5768b199c8cfd61b5e"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+# Export-only dependencies; validation uses Python standard library.
+pyarrow>=17,<24
+duckdb>=1.1,<2
+numpy>=2,<3
