@@ -1,0 +1,29 @@
+{
+  "repository": "https://github.com/shibaeff/oss-dependency-network-data",
+  "visibility": "public",
+  "private": false,
+  "release_url": "https://github.com/shibaeff/oss-dependency-network-data/releases/tag/v1.0.0",
+  "release_id": 456239177,
+  "tag": "v1.0.0",
+  "data_commit_sha": "0cb41d68d768c6cea87d6016fe359b30ba19affe",
+  "assets": [
+    {
+      "id": 785406590,
+      "name": "npm2016-partitions.csv.gz",
+      "size": 548936,
+      "digest": "sha256:30e1a3a8f76d35f18d15688fc5ed3f464d0c28bd06206156f68a902feedd04fc",
+      "browser_download_url": "https://github.com/shibaeff/oss-dependency-network-data/releases/download/v1.0.0/npm2016-partitions.csv.gz"
+    },
+    {
+      "id": 785406581,
+      "name": "npm2016-sanitized.zip",
+      "size": 3506110,
+      "digest": "sha256:56efb329777b752c53ad0bb41345a40b4572c65bb1ed8acbc010d71d9dd728e9",
+      "browser_download_url": "https://github.com/shibaeff/oss-dependency-network-data/releases/download/v1.0.0/npm2016-sanitized.zip"
+    }
+  ],
+  "verification_utc": "2026-11-24T02:36:53.003802+00:00",
+  "download_test": "Anonymous direct browser_download_url for both assets; SHA-256, GitHub provider digest and catalog bytes match",
+  "partition_rows_validated": 154744,
+  "scope": "Partial publication; uncertain upstream licenses withheld; see catalog and README"
+}
