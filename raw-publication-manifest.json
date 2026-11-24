@@ -231,5 +231,16 @@
       "reason": "API CC BY 4.0 conflicts with description CC BY-SA 4.0; unreviewed original contents; exceeds 2 GiB per asset. No splitting or upload."
     }
   ],
-  "modern_registry_cache": "Sanitized during collection, not original API bytes; withheld pending rights clarification."
+  "modern_registry_cache": "Sanitized during collection, not original API bytes; withheld pending rights clarification.",
+  "release_url": "https://github.com/shibaeff/oss-dependency-network-data/releases/tag/v1.1.0",
+  "release_id": 457137642,
+  "data_commit_sha": "aa6cba0b7a593a642804c874dcebb8574989a109",
+  "verification": {
+    "utc": "2026-11-24T17:58:20.463064+00:00",
+    "visibility": "PUBLIC",
+    "anonymous_download": "passed: urllib without authentication, 5884331 bytes, SHA-256 matches retained collected archive and GitHub digest",
+    "github_asset_id": 788254647,
+    "github_digest": "sha256:a43756238ec6e8d0ae4bead5360c26ffa42837495aa3c04925d8b2c4f948ee41",
+    "github_bytes": 5884331
+  }
 }
