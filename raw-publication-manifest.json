@@ -1,0 +1,235 @@
+{
+  "tag": "v1.1.0",
+  "scope": "Original collected npm2016 archive only. Manifest entries are metadata, not raw payload publication. Extracted copies, cached web pages and HTTP headers are not release assets.",
+  "original_meaning": "Exact bytes of historical.csv.zip retained locally before this release; a CSV conversion of the cited dataset, not the Figshare original TXT files and not original registry HTTP responses.",
+  "assets": [
+    {
+      "filename": "historical.csv.zip",
+      "bytes": 5884331,
+      "sha256": "a43756238ec6e8d0ae4bead5360c26ffa42837495aa3c04925d8b2c4f948ee41",
+      "node_rows": 154744,
+      "edge_rows": 517098,
+      "self_loops": 47,
+      "isolates": 0,
+      "zip_crc": "passed",
+      "columns": {
+        "nodes.csv": [
+          "index",
+          "name",
+          "_pos"
+        ],
+        "edges.csv": [
+          "source",
+          "target"
+        ],
+        "gprops.csv": [
+          "prop_name",
+          "value"
+        ]
+      },
+      "graph_property_keys": [
+        "citation",
+        "description",
+        "name",
+        "tags",
+        "upstream_license",
+        "url"
+      ],
+      "review": "All cells validated. Public package identifiers, numeric layout, endpoints and public scholarly attribution only; no identity tables, emails, credentials or internal paths.",
+      "status": "published-original-collected-archive",
+      "url": "https://github.com/shibaeff/oss-dependency-network-data/releases/download/v1.1.0/historical.csv.zip",
+      "source": "https://doi.org/10.6084/m9.figshare.3081640.v3",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "filename": "0.93r6.csv.zip",
+      "bytes": 13201,
+      "sha256": "f6f043d772a5bf5c4d9c86ef151153d70f5d432e9fa16dced8492f88576a67d6",
+      "source": "https://networks.skewed.de/net/debian_dependencies",
+      "status": "withheld",
+      "reason": "Unverified redistribution license; original maintainer identity field present.",
+      "maintainer_email_detected": true
+    },
+    {
+      "filename": "bo.csv.zip",
+      "bytes": 65809,
+      "sha256": "bdaae3fc27d889a52ff6dbcc68c0a300bfd29fcffe6b4f3aea1ab90e73659135",
+      "source": "https://networks.skewed.de/net/debian_dependencies",
+      "status": "withheld",
+      "reason": "Unverified redistribution license; original maintainer identity field present.",
+      "maintainer_email_detected": true
+    },
+    {
+      "filename": "bookworm.csv.zip",
+      "bytes": 4753707,
+      "sha256": "f708054e36aefb6aaa468d984cc4d437acde908901326a2ddac6feeb886efd65",
+      "source": "https://networks.skewed.de/net/debian_dependencies",
+      "status": "withheld",
+      "reason": "Unverified redistribution license; original maintainer identity field present.",
+      "maintainer_email_detected": true
+    },
+    {
+      "filename": "bullseye.csv.zip",
+      "bytes": 4286257,
+      "sha256": "a39b4e4ba3a5a68b1a47ad7cff6e66f70ccdafb1c6e6faafefa06cce4bfbb2ad",
+      "source": "https://networks.skewed.de/net/debian_dependencies",
+      "status": "withheld",
+      "reason": "Unverified redistribution license; original maintainer identity field present.",
+      "maintainer_email_detected": true
+    },
+    {
+      "filename": "buster.csv.zip",
+      "bytes": 4201296,
+      "sha256": "8011848013d28d048148304267f437c80dd9f0ed9ffd8fcb6e1c2ef4295ad43e",
+      "source": "https://networks.skewed.de/net/debian_dependencies",
+      "status": "withheld",
+      "reason": "Unverified redistribution license; original maintainer identity field present.",
+      "maintainer_email_detected": true
+    },
+    {
+      "filename": "buzz.csv.zip",
+      "bytes": 28503,
+      "sha256": "c7ca79847a29b0d094b88503a2a1c51635adcdbbfd98556fa590e06bae7af9a4",
+      "source": "https://networks.skewed.de/net/debian_dependencies",
+      "status": "withheld",
+      "reason": "Unverified redistribution license; original maintainer identity field present.",
+      "maintainer_email_detected": true
+    },
+    {
+      "filename": "etch.csv.zip",
+      "bytes": 1410415,
+      "sha256": "d502b6b954c66bd58b274670a3ac2938bc2192f51e629b2b4537e27bd2c5f3b6",
+      "source": "https://networks.skewed.de/net/debian_dependencies",
+      "status": "withheld",
+      "reason": "Unverified redistribution license; original maintainer identity field present.",
+      "maintainer_email_detected": true
+    },
+    {
+      "filename": "hamm.csv.zip",
+      "bytes": 113642,
+      "sha256": "56deb4d38c9208fd09f17d3f7d796d3cdf48619e6023ecc2f9f28399073b3c87",
+      "source": "https://networks.skewed.de/net/debian_dependencies",
+      "status": "withheld",
+      "reason": "Unverified redistribution license; original maintainer identity field present.",
+      "maintainer_email_detected": true
+    },
+    {
+      "filename": "jessie.csv.zip",
+      "bytes": 3096323,
+      "sha256": "951448bb117019a63d763854a31a5a74940a416ec51c06e1cfe95706e7b478a2",
+      "source": "https://networks.skewed.de/net/debian_dependencies",
+      "status": "withheld",
+      "reason": "Unverified redistribution license; original maintainer identity field present.",
+      "maintainer_email_detected": true
+    },
+    {
+      "filename": "lenny.csv.zip",
+      "bytes": 1688205,
+      "sha256": "a0f64f482c39dd2ba7be77d61646efc30202c3ac2cae9b9a1236aaac3fa1d108",
+      "source": "https://networks.skewed.de/net/debian_dependencies",
+      "status": "withheld",
+      "reason": "Unverified redistribution license; original maintainer identity field present.",
+      "maintainer_email_detected": true
+    },
+    {
+      "filename": "potato.csv.zip",
+      "bytes": 284920,
+      "sha256": "4c84edecdafb20ee723e19ee795eb2503f88ed0c8740cd4c763d3f3a4ee133ff",
+      "source": "https://networks.skewed.de/net/debian_dependencies",
+      "status": "withheld",
+      "reason": "Unverified redistribution license; original maintainer identity field present.",
+      "maintainer_email_detected": true
+    },
+    {
+      "filename": "rex.csv.zip",
+      "bytes": 43348,
+      "sha256": "3bb301d74419eab80bdfa008e0dde5e39172693921b75063b9abc046611353d2",
+      "source": "https://networks.skewed.de/net/debian_dependencies",
+      "status": "withheld",
+      "reason": "Unverified redistribution license; original maintainer identity field present.",
+      "maintainer_email_detected": true
+    },
+    {
+      "filename": "sarge.csv.zip",
+      "bytes": 1163072,
+      "sha256": "c03a6c2938c2a44d64edb7c4f0edc3cf272d02140f24fca1f8f19a7765b07e92",
+      "source": "https://networks.skewed.de/net/debian_dependencies",
+      "status": "withheld",
+      "reason": "Unverified redistribution license; original maintainer identity field present.",
+      "maintainer_email_detected": true
+    },
+    {
+      "filename": "slink.csv.zip",
+      "bytes": 166784,
+      "sha256": "05a6f13db8024708277a1ab5df4a783bf62283a4a31a9b0e42f306dc99b05e6b",
+      "source": "https://networks.skewed.de/net/debian_dependencies",
+      "status": "withheld",
+      "reason": "Unverified redistribution license; original maintainer identity field present.",
+      "maintainer_email_detected": true
+    },
+    {
+      "filename": "squeeze.csv.zip",
+      "bytes": 2115833,
+      "sha256": "121c8a302645665660a9d172f24db50836582d06bebd9a8fbab101e1846cedc7",
+      "source": "https://networks.skewed.de/net/debian_dependencies",
+      "status": "withheld",
+      "reason": "Unverified redistribution license; original maintainer identity field present.",
+      "maintainer_email_detected": true
+    },
+    {
+      "filename": "stretch.csv.zip",
+      "bytes": 3652448,
+      "sha256": "caeb80470aaf775b286f6ab1576fcf69f59b6fe12fd6e1e98597e649da92e873",
+      "source": "https://networks.skewed.de/net/debian_dependencies",
+      "status": "withheld",
+      "reason": "Unverified redistribution license; original maintainer identity field present.",
+      "maintainer_email_detected": true
+    },
+    {
+      "filename": "trixie.csv.zip",
+      "bytes": 5379706,
+      "sha256": "4ee45043e63e861c90fe0add90a7b084e468f3838171592de4a9f7a70f9db582",
+      "source": "https://networks.skewed.de/net/debian_dependencies",
+      "status": "withheld",
+      "reason": "Unverified redistribution license; original maintainer identity field present.",
+      "maintainer_email_detected": true
+    },
+    {
+      "filename": "wheezy.csv.zip",
+      "bytes": 2598479,
+      "sha256": "f8ecf585a7e3c5d73d139d51cbcc415e79516465a6adbd113555d57e6579585e",
+      "source": "https://networks.skewed.de/net/debian_dependencies",
+      "status": "withheld",
+      "reason": "Unverified redistribution license; original maintainer identity field present.",
+      "maintainer_email_detected": true
+    },
+    {
+      "filename": "woody.csv.zip",
+      "bytes": 606688,
+      "sha256": "1d7a33f3ca45715da05b5d67b2e1345b73e6023163714b10bfb29fe52b3508aa",
+      "source": "https://networks.skewed.de/net/debian_dependencies",
+      "status": "withheld",
+      "reason": "Unverified redistribution license; original maintainer identity field present.",
+      "maintainer_email_detected": true
+    },
+    {
+      "filename": "db-dump.tar.gz",
+      "bytes": 2197040152,
+      "sha256": "ee56df1ee7f8bfd13dd62d73f321eef1c26ed7bdd562c56794fb1d6d4fdc4ec5",
+      "hash_basis": "Previously collected SHA-256 sidecar; not rehashed in this publication.",
+      "source": "https://static.crates.io/db-dump.tar.gz",
+      "status": "withheld",
+      "reason": "No explicit dump redistribution license established; identity tables users.csv/oauth_github.csv/crate_owners.csv; exceeds 2 GiB per release asset. Latest upstream URL is mutable."
+    },
+    {
+      "filename": "libraries-1.6.0-2020-01-12.tar.gz",
+      "bytes": 24890021718,
+      "md5": "4f2275284b86827751bb31ce74238b15",
+      "hash_basis": "Previously collected MD5 sidecar, consistent with existing catalog; not rehashed in this publication. MD5 is not a security guarantee.",
+      "source": "https://zenodo.org/records/3626071",
+      "status": "withheld",
+      "reason": "API CC BY 4.0 conflicts with description CC BY-SA 4.0; unreviewed original contents; exceeds 2 GiB per asset. No splitting or upload."
+    }
+  ],
+  "modern_registry_cache": "Sanitized during collection, not original API bytes; withheld pending rights clarification."
+}

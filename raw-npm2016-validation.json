@@ -1,0 +1,34 @@
+{
+  "filename": "historical.csv.zip",
+  "bytes": 5884331,
+  "sha256": "a43756238ec6e8d0ae4bead5360c26ffa42837495aa3c04925d8b2c4f948ee41",
+  "node_rows": 154744,
+  "edge_rows": 517098,
+  "self_loops": 47,
+  "isolates": 0,
+  "zip_crc": "passed",
+  "columns": {
+    "nodes.csv": [
+      "index",
+      "name",
+      "_pos"
+    ],
+    "edges.csv": [
+      "source",
+      "target"
+    ],
+    "gprops.csv": [
+      "prop_name",
+      "value"
+    ]
+  },
+  "graph_property_keys": [
+    "citation",
+    "description",
+    "name",
+    "tags",
+    "upstream_license",
+    "url"
+  ],
+  "review": "All cells validated. Public package identifiers, numeric layout, endpoints and public scholarly attribution only; no identity tables, emails, credentials or internal paths."
+}

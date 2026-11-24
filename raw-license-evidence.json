@@ -1,0 +1,17 @@
+{
+  "source": "https://api.figshare.com/v2/articles/3081640",
+  "retrieved_utc": "2026-11-24T17:57:40.241477+00:00",
+  "response_sha256": "13ded8270f628f2c81bf5da541d8949536f5508ca7534f51b940f7b04cd5a197",
+  "dataset_title": "The NPM software dependency network (npmjs.com)",
+  "version": 3,
+  "doi": "10.6084/m9.figshare.3081640.v3",
+  "citation": "Slijep\u010devi\u0107, Tomislav (2016). The NPM software dependency network (npmjs.com). figshare. Dataset. https://doi.org/10.6084/m9.figshare.3081640.v3",
+  "license": {
+    "value": 1,
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "public": true,
+  "confidential": false,
+  "note": "Selected public licensing fields, not a copy of identities or account metadata. Original collected CSV ZIP also explicitly carries CC BY 4.0 in gprops.csv."
+}
